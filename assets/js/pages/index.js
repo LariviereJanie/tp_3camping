@@ -3,6 +3,15 @@ import page from "page";
 import { animate } from "animejs";
 import CampingService from "../composants/CampingService.js";
 
+
+animate("h1", {
+    translateY: [-25, 0],
+    opacity: [0, 1],
+    duration: 900,
+    easing: "ease-out",
+  });
+  
+
 function mount(html) {
   const app = document.querySelector("[data-application]");
   app.innerHTML = html;

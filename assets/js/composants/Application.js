@@ -56,12 +56,3 @@ async #recupererDonnees() {
 }
 
 export default Application;
-
-
-/*appelle CampingService
-affichercampings
-gere la liste
-cree cartes
-moment, pages, vite, anime, tailwing, awesome
-vercelle 
- */

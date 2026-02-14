@@ -31,6 +31,14 @@ main {
   }
   
   .carte:hover {
+    color: tomato;
+  }
+
+  small:hover {
+    font-size: larger;
+  }
+
+  .carte:hover {
     transform: translateY(-4px);
   }
   
