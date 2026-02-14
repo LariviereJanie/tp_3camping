@@ -1,0 +1,27 @@
+.nav {
+    display: flex;
+    gap: 20px;
+}
+
+.nav a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: "Caveat", cursive;
+    font-size: 24px;
+    color: #3dc744;
+    padding: 10px;
+}
+
+.nav a:hover {
+    color: tomato;
+}
+
+.nav i {
+    transition: transform 0.25s ease, color 0.25s ease;
+}
+  
+.nav a:hover i {
+    transform: translateY(-3px) scale(1.1);
+    color: tomato;
+}

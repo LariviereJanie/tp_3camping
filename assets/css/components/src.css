@@ -1,0 +1,12 @@
+.sources h2 {
+    margin-top: 20px;
+    font-family: "Caveat", cursive;
+}
+
+.sources ul {
+    line-height: 1.6;
+}
+
+.sources li {
+    margin-bottom: 10px;
+}

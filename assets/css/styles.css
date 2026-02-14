@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "./layout/main.css";
+@import "./components/cartes.css";
+@import "./components/header.css";
+@import "./components/recherche.css";
+@import "./components/src.css";
+@import "./components/nav.css";
+@import "./components/bouton.css";
+@import "./components/filtres.css";
+@import "./components/detail.css";
+
